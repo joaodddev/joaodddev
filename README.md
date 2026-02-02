@@ -1,16 +1,104 @@
-## Hi there 👋
+## PT-BR
+# 👨🏻‍💻 João Victor
+Data • Ops • Automation | Java • Python • SQL
 
-<!--
-**joaodddev/joaodddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo na convergência entre **operações, sistemas e dados**, com experiência nas áreas fiscal e operacional em ambientes de grande porte.  
+Apaixonado por Automação de processos e projetos orientados a dados.
 
-Here are some ideas to get you started:
+📍 Brasil  
+🎯 Em constante evolução em **Data (Python e SQL), Backend (Java) e Analytics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Onde me encontrar
+- 📧 Email: joaodddev@gmail.com  
+- 💼 LinkedIn: [perfil](https://www.linkedin.com/in/joao-victor-macedo-neves/) 
+- 🧑‍💻 GitHub: https://github.com/joaodddev
+
+---
+
+## 🛠️ Stacks & Skills
+
+**Linguagens & Dados**
+- Java (POO, API e Spring Boot)
+- Python (Pandas, Plotly e Automação)
+- SQL (MySQL, PostgreSQL, SQL Server)
+- Excel Avançado & Dashboards
+
+**Ferramentas**
+- Power BI
+- Git & GitHub
+- Databricks
+- VS Code
+
+**Metodologias**
+- Lean / Kaizen
+- Melhoria Contínua
+- Análise de Indicadores (KPIs)
+
+---
+
+## 📊 Projetos em Destaque
+- 🔹 API de Indicadores Operacionais (Spring Boot)
+- 🔹 Validador Automático de Notas Fiscais (Python)
+- 🔹 Dashboards Operacionais (Excel & Power BI)
+
+---
+
+## 🌍 Idiomas
+- 🇧🇷 Português — Nativo  
+- 🇺🇸 Inglês — Intermediário / Avançado
+
+---
+
+## EN-US
+
+# 👨🏻‍💻 João Victor
+Data • Ops • Automation | Java • Python • SQL
+
+I work at the intersection of **operations, systems, and data**, with experience in fiscal and operational areas within large-scale environments.  
+Passionate about **process automation** and **data-driven projects**.
+
+📍 Brazil  
+🎯 Constantly evolving in **Data (Python & SQL), Backend (Java), and Analytics**
+
+---
+
+## 📫 Get in touch
+- 📧 Email: joaodddev@gmail.com  
+- 💼 LinkedIn: [profile](https://www.linkedin.com/in/joao-victor-macedo-neves/)  
+- 🧑‍💻 GitHub: https://github.com/joaodddev
+
+---
+
+## 🛠️ Stacks & Skills
+
+**Languages & Data**
+- Java (OOP, APIs, and Spring Boot)
+- Python (Pandas, Plotly, and Automation)
+- SQL (MySQL, PostgreSQL, SQL Server)
+- Advanced Excel & Dashboards
+
+**Tools**
+- Power BI
+- Git & GitHub
+- Databricks
+- VS Code
+
+**Methodologies**
+- Lean / Kaizen
+- Continuous Improvement
+- KPI Analysis
+
+---
+
+## 📊 Featured Projects
+- 🔹 Operational Indicators API (Spring Boot)
+- 🔹 Automated Invoice Validator (Python)
+- 🔹 Operational Dashboards (Excel & Power BI)
+
+---
+
+## 🌍 Languages
+- 🇧🇷 Portuguese — Native  
+- 🇺🇸 English — Intermediate / Advanced
