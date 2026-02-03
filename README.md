@@ -1,4 +1,4 @@
-## PT-BR
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/68cece1a-57dc-4a78-a843-3b467130df91" />## PT-BR
 # 👨🏻‍💻 João Victor
 Data • Ops • Automation | Java • Python • SQL
 
@@ -24,6 +24,10 @@ Apaixonado por Automação de processos e projetos orientados a dados.
 - Python (Pandas, Plotly e Automação)
 - SQL (MySQL, PostgreSQL, SQL Server)
 - Excel Avançado & Dashboards
+
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/19a0331b-fa11-48b4-b7c7-0290f7aa00fd" />
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/de143278-cc83-4cc1-934b-af9b1adbf270" />
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/33389ac9-e5c7-4cbe-a1d7-f9d31e8b880c" />
 
 **Ferramentas**
 - Power BI
