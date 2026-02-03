@@ -23,9 +23,9 @@ Apaixonado por Automação de processos e projetos orientados a dados.
 - Java (POO, API e Spring Boot)
 - Python (Pandas, Plotly e Automação)
 - SQL (MySQL, PostgreSQL, SQL Server)
-- Excel Avançado & Dashboards
+- Excel & BI
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
 **Ferramentas**
 - Power BI
@@ -79,7 +79,9 @@ Passionate about **process automation** and **data-driven projects**.
 - Java (OOP, APIs, and Spring Boot)
 - Python (Pandas, Plotly, and Automation)
 - SQL (MySQL, PostgreSQL, SQL Server)
-- Advanced Excel & Dashboards
+- Excel & BI
+
+[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
 **Tools**
 - Power BI
