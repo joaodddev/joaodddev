@@ -1,4 +1,4 @@
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/68cece1a-57dc-4a78-a843-3b467130df91" />## PT-BR
+## PT-BR
 # 👨🏻‍💻 João Victor
 Data • Ops • Automation | Java • Python • SQL
 
