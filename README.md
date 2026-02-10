@@ -25,8 +25,8 @@ Apaixonado por Automação de processos e projetos orientados a dados.
 - SQL (MySQL, PostgreSQL, SQL Server)
 - Excel & BI
 
-[!My Skills]
-([https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)]
+[(!My Skills)]
+[([https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)]
 
 **Ferramentas**
 - Power BI
