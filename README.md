@@ -2,9 +2,6 @@
 # 👨🏻‍💻 João Victor
 Data • Ops • Automation | Java • Python • SQL
 
-Atuo na convergência entre **operações, sistemas e dados**, com experiência nas áreas fiscal e operacional em ambientes de grande porte.  
-Apaixonado por Automação de processos e projetos orientados a dados.
-
 📍 Brasil  
 🎯 Em constante evolução em **Data (Python e SQL), Backend (Java) e Analytics**
 
