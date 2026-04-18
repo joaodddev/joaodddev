@@ -9,8 +9,8 @@
 ## 📫 Onde me encontrar
 - 📧 Email: joaodddev@gmail.com  
 - 💼 LinkedIn: [perfil](https://www.linkedin.com/in/joao-victor-macedo-neves/)
-- 🧑‍💻 X: [perfil](https://x.com/joaodevv)
-- 🧑‍💻 GitHub: [perfil](https://github.com/joaodddev)
+- 🧑‍💻 X: https://x.com/joaodevv
+- 🧑‍💻 GitHub: https://github.com/joaodddev
 
 ---
 
