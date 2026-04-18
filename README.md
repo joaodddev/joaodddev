@@ -1,6 +1,5 @@
 ## PT-BR
 # 👨🏻‍💻 João Victor
-Data • Ops • Automation | Java • Python • SQL
 
 📍 Brasil  
 🎯 Em constante evolução em **Data (Python e SQL), Backend (Java) e Analytics**
