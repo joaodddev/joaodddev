@@ -24,6 +24,7 @@
 - SQL (MySQL, PostgreSQL, SQL Server)
   
 ![Java](https://skillicons.dev/icons?i=java)
+![Go](https://skillicons.dev/icons?i=go)
 ![Git](https://skillicons.dev/icons?i=git)
 
 **Ferramentas**
