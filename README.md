@@ -24,7 +24,7 @@
 - SQL (MySQL, PostgreSQL, SQL Server)
   
 ![Java](https://skillicons.dev/icons?i=java)
-![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg)
+![Git](https://skillicons.dev/icons?i=git)
 
 **Ferramentas**
 - IntelliJ & VS Code
