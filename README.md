@@ -10,8 +10,8 @@
 - 📧 Email: joaodddev@gmail.com  
 - 💼 LinkedIn: [perfil](https://www.linkedin.com/in/joao-victor-macedo-neves/)
 - 🧑‍💻 X: https://x.com/joaodevv
-- ![Discord](https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg): 
-- 🧑‍💻 ![GitHub](https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg): https://github.com/joaodddev
+- Discord:
+- GitHub: https://github.com/joaodddev
 
 ---
 
