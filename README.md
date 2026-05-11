@@ -10,7 +10,8 @@
 - 📧 Email: joaodddev@gmail.com  
 - 💼 LinkedIn: [perfil](https://www.linkedin.com/in/joao-victor-macedo-neves/)
 - 🧑‍💻 X: https://x.com/joaodevv
-- 🧑‍💻 GitHub: https://github.com/joaodddev
+- ![Discord](https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg): 
+- 🧑‍💻 ![GitHub](https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg): https://github.com/joaodddev
 
 ---
 
@@ -18,30 +19,17 @@
 
 **Linguagens & Dados**
 - Java (POO, API e Spring Boot)
+- Go! (Microservices e Gin)
 - Python (Pandas, Plotly e Automação)
 - SQL (MySQL, PostgreSQL, SQL Server)
-- Excel & BI
   
 ![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
+![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg)
 
 **Ferramentas**
-- Power BI
+- IntelliJ & VS Code
 - Git & GitHub
 - Databricks
-- VS Code
-
-**Metodologias**
-- Lean / Kaizen
-- Melhoria Contínua
-- Análise de Indicadores (KPIs)
-
----
-
-## 📊 Projetos em Destaque
-- 🔹 API de Indicadores Operacionais (Spring Boot)
-- 🔹 Validador Automático de Notas Fiscais (Python)
-- 🔹 Dashboards Operacionais (Excel & Power BI)
 
 ---
 
@@ -54,7 +42,7 @@
 ## EN-US
 
 # 👨🏻‍💻 João Victor
-Data • Ops • Automation | Java • Python • SQL
+Bakcend • Ops • Automation | Java • Go! • SQL
 
 I work at the intersection of **operations, systems, and data**, with experience in fiscal and operational areas within large-scale environments.  
 Passionate about **process automation** and **data-driven projects**.
