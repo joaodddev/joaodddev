@@ -9,9 +9,6 @@
 ## 📫 Onde me encontrar
 - 📧 Email: joaodddev@gmail.com  
 - 💼 LinkedIn: [perfil](https://www.linkedin.com/in/joao-victor-macedo-neves/)
-- 🧑‍💻 X: https://x.com/joaodevv
-- ![Discord](https://skillicons.dev/icons?i=discord): 
-- ![Github](https://skillicons.dev/icons?i=github): https://github.com/joaodddev
 
 ---
 
