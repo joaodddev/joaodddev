@@ -2,7 +2,7 @@
 # 👨🏻‍💻 João Victor
 
 📍 Brasil  
-🎯 Em constante evolução em **Data (Python e SQL), Backend (Java) e Analytics**
+🎯 Em constante evolução em **Data (Python e SQL), Backend (Java e Golang) e Analytics**
 
 ---
 
