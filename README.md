@@ -2,8 +2,8 @@
 
 Backend Developer passionate about building scalable systems, distributed architectures, and automation.
 
-📍 Brazil
-🎯 Currently focused on **Java, Go, Microservices, and Event-Driven Architecture**
+* 📍 Brazil
+* 🎯 Currently focused on **Java, Go, Microservices, and Event-Driven Architecture**
 
 ---
 
