@@ -1,92 +1,55 @@
-## PT-BR
 # 👨🏻‍💻 João Victor
 
-📍 Brasil  
-🎯 Em constante evolução em **Data (Python e SQL), Backend (Java e Golang) e Analytics**
+Backend Developer passionate about building scalable systems, distributed architectures, and automation.
+
+📍 Brazil
+🎯 Currently focused on **Java, Go, Microservices, and Event-Driven Architecture**
 
 ---
 
-## 📫 Onde me encontrar
-- 📧 Email: joaodddev@gmail.com  
-- 💼 LinkedIn: [perfil](https://www.linkedin.com/in/joao-victor-macedo-neves/)
+## 📫 Connect with me
+
+* 📧 **Email:** [joaodddev@gmail.com](mailto:joaodddev@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/joao-victor-macedo-neves/
+* 🧑‍💻 **GitHub:** https://github.com/joaodddev
 
 ---
 
-## 🛠️ Stacks & Skills
+## 🚀 Tech Stack
 
-**Linguagens & Dados**
-- Java (POO, API e Spring Boot)
-- Go! (Microservices e Gin)
-- Python (Pandas, Plotly e Automação)
-- SQL (MySQL, PostgreSQL, SQL Server)
-  
-![Java](https://skillicons.dev/icons?i=java)
-![Go](https://skillicons.dev/icons?i=go)
-![Git](https://skillicons.dev/icons?i=git)
+### Backend
 
-**Ferramentas**
-- IntelliJ & VS Code
-- Git & GitHub
-- Databricks
+* ☕ Java (Spring Boot, Spring Security, REST APIs)
+* 🐹 Go (Gin, Worker Pools, API Gateway, Microservices)
+* 🔐 JWT Authentication
+* 🔗 RESTful APIs
+* 🗄️ SQL (PostgreSQL, MySQL, SQL Server)
 
----
+![Java](https://skillicons.dev/icons?i=java) ![Go](https://skillicons.dev/icons?i=go) ![Git](https://skillicons.dev/icons?i=git)
 
-## 🌍 Idiomas
-- 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Intermediário / Avançado
+### Architecture & Infrastructure
 
----
+* 🐳 Docker & Docker Compose
+* 📨 Apache Kafka
+* ⚡ Event-Driven Architecture
+* 🔄 Microservices
+* 🌐 Reverse Proxy & API Gateway
 
-## EN-US
+### Tools
 
-# 👨🏻‍💻 João Victor
-Bakcend • Ops • Automation | Java • Go! • SQL
-
-I work at the intersection of **operations, systems, and data**, with experience in fiscal and operational areas within large-scale environments.  
-Passionate about **process automation** and **data-driven projects**.
-
-📍 Brazil  
-🎯 Constantly evolving in **Data (Python & SQL), Backend (Java), and Analytics**
-
----
-
-## 📫 Get in touch
-- 📧 Email: joaodddev@gmail.com  
-- 💼 LinkedIn: [profile](https://www.linkedin.com/in/joao-victor-macedo-neves/)  
-- 🧑‍💻 GitHub: https://github.com/joaodddev
-
----
-
-## 🛠️ Stacks & Skills
-
-**Languages & Data**
-- Java (OOP, APIs, and Spring Boot)
-- Python (Pandas, Plotly, and Automation)
-- SQL (MySQL, PostgreSQL, SQL Server)
-- Excel & BI
-
-[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
-
-**Tools**
-- Power BI
-- Git & GitHub
-- Databricks
-- VS Code
-
-**Methodologies**
-- Lean / Kaizen
-- Continuous Improvement
-- KPI Analysis
-
----
-
-## 📊 Featured Projects
-- 🔹 Operational Indicators API (Spring Boot)
-- 🔹 Automated Invoice Validator (Python)
-- 🔹 Operational Dashboards (Excel & Power BI)
+* Git & GitHub
+* IntelliJ IDEA
+* VS Code
 
 ---
 
 ## 🌍 Languages
-- 🇧🇷 Portuguese — Native  
-- 🇺🇸 English — Intermediate / Advanced
+
+* 🇧🇷 Portuguese — Native
+* 🇺🇸 English — Intermediate
+
+---
+
+> Always learning, always building.
+>
+> Interested in Backend Engineering, Distributed Systems and Scalable Architectures.
