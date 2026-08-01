@@ -2,7 +2,7 @@
 
 > Building scalable systems in Java, Kotlin, and Go — with a strong focus on fintech, distributed architectures, and event-driven design.
 
-📍 Brazil &nbsp;|&nbsp; 📧 [joaodddev@gmail.com](mailto:joaodddev@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/joao-victor-macedo-neves/) &nbsp;|&nbsp; 🎥 [YouTube](https://www.youtube.com/@joaoccode)
+📍 Brazil &nbsp;|&nbsp; 📧 [nevvesdev@gmail.com](mailto:nevvesdev@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/joao-victor-macedo-neves/) &nbsp;|&nbsp; 🎥 [YouTube](https://www.youtube.com/@nevvesdev)
 
 ---
 
@@ -33,10 +33,12 @@
 ### Architecture & Infrastructure
 
 ![Docker](https://skillicons.dev/icons?i=docker)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 
-- **Patterns:** Clean Architecture, Hexagonal, DDD, Event-Driven, Microservices
-- **Infra:** Docker & Docker Compose, API Gateway, Resilience4j, Zipkin, Eureka
+- **Patterns:** Clean Architecture, Hexagonal, DDD, CQRS, SAGA, Transactional Outbox
+- **Infra:** Docker & Docker Compose, Resilience4j, Zipkin, Eureka, OpenTelemetry
 - **Auth:** JWT, Spring Security
+- **CI/CD:** GitHub Actions
 
 ### Tools & Environment
 
@@ -45,23 +47,10 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
-- Linux (Ubuntu), IntelliJ IDEA, Insomnia / ThunderClient, Git & GitHub
+- Linux (Ubuntu), IntelliJ IDEA, Insomnia, Git & GitHub
 
 ---
 
 ## 🎯 Focus Areas
 
-- **Fintech & Digital Banking** — core banking, digital wallets, credit scoring, fraud detection
-- **Event-Driven Architecture** — Kafka-based pipelines, async processing, CQRS patterns
-- **Distributed Systems** — microservices, API gateways, observability, rate limiting
-
----
-
-## 🌍 Languages
-
-🇧🇷 Portuguese — Native &nbsp;|&nbsp; 
-🇺🇸 English — Intermediate
-
----
-
-*Always learning. Always building.*
+- **Fintech & Digital Banking** — core banking, digital wallets, credit
